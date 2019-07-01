@@ -57,7 +57,7 @@
 .display-4 {
     width: 60%;
     margin: auto;
-    margin-top: 0px;
+    margin-top: 60px;
     padding: 25px;
     border-radius: 15px;
     background-image: url("");
@@ -202,7 +202,7 @@ div.social-btn div:hover span {
 }
 
 .footer {
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -212,12 +212,15 @@ div.social-btn div:hover span {
     text-align: center;
     align-content: center;
     padding-bottom: 80px;
+    padding-top: 30px;
+    margin-top: 70px;
+    
     
 }
 
 .copyright {
-    clear: both;
-    margin-bottom: 80px;
+   
+    margin-bottom: 0px;
 }
 
 
